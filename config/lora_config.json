@@ -1,0 +1,9 @@
+{
+    "lora_r": 32,
+    "lora_alpha": 16,
+    "unfrozen_modules": [
+        "deltas",
+        "layer_norm",
+        "final_layer_norm"
+    ]
+}
