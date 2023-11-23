@@ -4,7 +4,7 @@
 
 </div>
 
-🎉  This is the implementation of EMNLP 2023 paper：[Sparse Low-rank Adaptation of Pre-trained Language Models](https:///)
+🎉  This is the implementation of EMNLP 2023 paper：[Sparse Low-rank Adaptation of Pre-trained Language Models](https://arxiv.org/abs/2311.11696)
 
 
 ## Requirements
@@ -80,5 +80,10 @@ If you have any questions related to the codes or the paper, please contact Ning
 If you find our work useful, please use the following citation: 
 
 ```bibtex
-
+@article{ding2023sparse,
+  title={Sparse Low-rank Adaptation of Pre-trained Language Models},
+  author={Ding, Ning and Lv, Xingtai and Wang, Qiaosen and Chen, Yulin and Zhou, Bowen and Liu, Zhiyuan and Sun, Maosong},
+  journal={arXiv preprint arXiv:2311.11696},
+  year={2023}
+}
 ```
