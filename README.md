@@ -56,7 +56,7 @@ You can apply SoRA by running the following codes:
 cd scripts
 # without the sparsifying scheduler
 bash run_glue_sora_no_schedule.sh
-# with the sparsifying scheduler
+# with the sparsifying scheduler (Algorithm 1)
 bash run_glue_sora_schedule_dense.sh
 ```
 
