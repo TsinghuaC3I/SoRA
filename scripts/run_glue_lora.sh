@@ -5,7 +5,7 @@ for seed in 100
 do
 task=mnli-mm # can be cola/mrpc/rte/stsb/qnli/sst2/qqp/mnli-m/mnli-mm
 lr=3e-4
-bsz=100
+bsz=8 # rte: 32; the other: 8
 epoch=10
 echo $lr
 echo $seed
